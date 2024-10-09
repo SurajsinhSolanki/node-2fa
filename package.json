@@ -1,0 +1,19 @@
+{
+    "name": "node-2fa",
+    "version": "1.0.0",
+    "description": "A lightweight Node.js package for 2FA management without dependencies",
+    "main": "index.js",
+    "author": "",
+    "keywords": [
+        "2fa",
+        "two-factor",
+        "authentication",
+        "otp",
+        "node"
+    ],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SurajsinhSolanki/node-2fa"
+    }
+}
