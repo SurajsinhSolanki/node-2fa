@@ -1,5 +1,5 @@
 {
-    "name": "easy2fa",
+    "name": "@surajsinh-solanki/easy2fa",
     "version": "1.0.0",
     "description": "A lightweight Node.js package for 2FA management without dependencies",
     "main": "index.js",
