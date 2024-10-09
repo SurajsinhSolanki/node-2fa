@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "A lightweight Node.js package for 2FA management without dependencies",
     "main": "index.js",
-    "author": "",
+    "author": "Surajsinh",
     "keywords": [
         "2fa",
         "two-factor",
